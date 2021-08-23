@@ -1,18 +1,4 @@
 <p align="center">
-  <a href="https://www.microverse.org/">
-    <img alt="Microverse" src="https://img.shields.io/badge/-Microverse-blueviolet?style=flat-square">
-  </a>
-  <a href="https://github.com/enionsouza/webpack-exercise/blob/main/LICENSE">
-    <img alt="MIT Licensed" src="https://img.shields.io/github/license/enionsouza/webpack-exercise?style=flat-square">
-  </a>
-  <a href="https://github.com/enionsouza/webpack-exercise">
-    <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/enionsouza/webpack-exercise/main?color=blue&style=flat-square">
-  </a>
-  <a href="https://github.com/enionsouza/webpack-exercise">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/enionsouza/webpack-exercise?color=cyan&label=%E2%98%85%20stars%20&style=flat-square">
-  </a>
-</p>
-
 # Webpack Template
 
 <p align="center">
@@ -45,11 +31,11 @@ npm start
 
 ## Author
 
-👤 **Ênio Neves de Souza**
+👤 **David Alvarez Mazzo**
 
 - GitHub: [@petumazo](https://github.com/petumazo)
 - Twitter: [@petudeveloper](https://twitter.com/petudeveloper)
-- LinkedIn: [Enio Neves de Souza](https://www.linkedin.com/in/davidalvarezmazzo/)
+- LinkedIn: [David Alvarez Mazzo](https://www.linkedin.com/in/davidalvarezmazzo/)
 
 ## 🤝 Contributing
 
