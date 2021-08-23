@@ -1,9 +1,6 @@
-<p align="center">
-# Webpack Template
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-<p align="center">
-    <img alt="Screenshot" src="./docs/Screenshot.png" width="700">
-</p>
+# Webpack Exercise
 
 ## Built With
 
