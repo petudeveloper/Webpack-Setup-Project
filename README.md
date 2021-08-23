@@ -2,6 +2,12 @@
 
 # Webpack Exercise
 
+> In this exercise I build a simple yet powerful webpack boilerplate. I worked with the webpack official guides.
+
+## Learning objectives
+
+- Use webpack to bundle JavaScript.
+
 ## Built With
 
 - HTML, CSS, JavaScript, & Webpack;
